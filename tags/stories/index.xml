@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Karel Hána</title>
-    <link>https://karelhana.com/</link>
-    <description>Recent content on Karel Hána</description>
+    <title>stories on Karel Hána</title>
+    <link>https://karelhana.com/tags/stories/</link>
+    <description>Recent content in stories on Karel Hána</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://karelhana.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://karelhana.com/tags/stories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The conversation between you and me</title>
       <link>https://karelhana.com/posts/1/</link>
@@ -16,17 +16,6 @@
       <description>Today was a tiring day for me. My work is so demanding. Do I need it? Of course, and I even enjoy it. It&amp;rsquo;s always the same thing - railways, bridges and sometimes also rope. The reason for this is probably my lack of creativity. But in other areas it&amp;rsquo;s different.
 People are so antediluvian. God gave them consciousness, the greatest capacity for thought, and yet there is someone who enjoys watching these supposedly &amp;ldquo;genius&amp;rdquo; creatures drive themselves to destruction.</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://karelhana.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://karelhana.com/about/</guid>
-      <description>about</description>
-    </item>
-    
-    
     
   </channel>
 </rss>

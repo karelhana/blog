@@ -20,6 +20,16 @@
   </url><url>
     <loc>https://karelhana.com/cs/posts/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://karelhana.com/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://karelhana.com/cs/posts/"
+                />
   </url><url>
     <loc>https://karelhana.com/cs/tags/pribehy/</loc>
     <lastmod>2023-06-12T00:00:00+00:00</lastmod>
@@ -48,6 +58,16 @@
   </url><url>
     <loc>https://karelhana.com/cs/posts/1/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://karelhana.com/posts/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://karelhana.com/cs/posts/1/"
+                />
   </url><url>
     <loc>https://karelhana.com/cs/archives/</loc>
     <xhtml:link
