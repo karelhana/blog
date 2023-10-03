@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://karelhana.com/posts/2/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cs"
+                href="https://karelhana.com/cs/posts/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://karelhana.com/posts/2/"
+                />
+  </url><url>
     <loc>https://karelhana.com/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -16,7 +29,7 @@
                 />
   </url><url>
     <loc>https://karelhana.com/posts/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -28,11 +41,11 @@
                 href="https://karelhana.com/posts/"
                 />
   </url><url>
-    <loc>https://karelhana.com/tags/stories/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <loc>https://karelhana.com/tags/reflections/</loc>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://karelhana.com/tags/</loc>
-    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="cs"
@@ -43,6 +56,9 @@
                 hreflang="en"
                 href="https://karelhana.com/tags/"
                 />
+  </url><url>
+    <loc>https://karelhana.com/tags/stories/</loc>
+    <lastmod>2021-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://karelhana.com/posts/1/</loc>
     <lastmod>2021-09-01T00:00:00+00:00</lastmod>
